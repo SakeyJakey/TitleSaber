@@ -1,6 +1,6 @@
 # Title Saber
 
-Changes the Beat Saber title text to your custom one.
+Changes the Beat Saber title text to your custom one and removes promoted songs if you wish.
 
 ## Credits
 
